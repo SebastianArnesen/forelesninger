@@ -23,4 +23,4 @@ if __name__ == "__main__":
     # print("-----------------")
     # print(book3)
     # print("-----------------")
-    # print(library.books)
+    # print([book.title for book in library.books])
